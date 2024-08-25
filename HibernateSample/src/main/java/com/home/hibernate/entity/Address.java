@@ -14,6 +14,7 @@ public class Address
    private String state;
    private String pincode;
    String test 1
+   String test 2
 
    public Address()
    {

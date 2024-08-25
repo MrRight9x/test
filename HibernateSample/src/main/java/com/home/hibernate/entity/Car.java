@@ -18,6 +18,7 @@ import javax.persistence.ManyToMany;
 public class Car
 {
    @Id
+   String test 3
    @GeneratedValue( strategy = GenerationType.AUTO )
    private int                  id;
    private String               name;
