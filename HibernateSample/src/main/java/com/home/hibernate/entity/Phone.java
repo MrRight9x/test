@@ -20,7 +20,8 @@ public class Phone
    @Column( name = "PHONE_ID" )
    @GeneratedValue( strategy = GenerationType.AUTO )
    private int id;
-   String branchtest1 ;
+
+   String branchtest2;
    public Phone()
    {
 
