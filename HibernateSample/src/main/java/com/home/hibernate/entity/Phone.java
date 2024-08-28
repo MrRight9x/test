@@ -21,6 +21,7 @@ public class Phone
    @GeneratedValue( strategy = GenerationType.AUTO )
    private int id;
    String branchtest1 ;
+   // nhanh 1
    public Phone()
    {
 
