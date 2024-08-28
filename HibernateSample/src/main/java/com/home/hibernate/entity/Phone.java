@@ -20,6 +20,7 @@ public class Phone
    @Column( name = "PHONE_ID" )
    @GeneratedValue( strategy = GenerationType.AUTO )
    private int id;
+   // day la nhan v2
    public Phone()
    {
 
