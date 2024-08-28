@@ -24,6 +24,7 @@ public class Phone
    // day la nhan v2
    public Phone()
   // day la nhanh 1
+           // day la nhanh 1
    {
 
    }
