@@ -21,6 +21,7 @@ public class Phone
    @GeneratedValue( strategy = GenerationType.AUTO )
    private int id;
    public Phone()
+  // day la nhanh 1
    {
 
    }
