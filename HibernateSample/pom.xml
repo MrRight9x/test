@@ -9,7 +9,7 @@
 
 	<name>HibernateSample</name>
 	<url>http://maven.apache.org</url>
-
+testttttttt11111
 	<properties>
 		<maven.compiler.plugin.version>3.5.1</maven.compiler.plugin.version>
 		<junit.version>4.12</junit.version>
