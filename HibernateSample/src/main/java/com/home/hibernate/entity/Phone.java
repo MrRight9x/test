@@ -22,6 +22,7 @@ public class Phone
    private int id;
    public Phone()
   // day la nhanh 1
+           // day la nhanh 1
    {
 
    }
