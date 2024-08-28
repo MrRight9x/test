@@ -9,7 +9,10 @@
 
 	<name>HibernateSample</name>
 	<url>http://maven.apache.org</url>
+
 testtttt222222
+
+testttttttt11111
 	<properties>
 		<maven.compiler.plugin.version>3.5.1</maven.compiler.plugin.version>
 		<junit.version>4.12</junit.version>
@@ -19,7 +22,7 @@ testtttt222222
 
 	<dependencies>
 		<dependency>
-			<groupId>junit</groupId>
+			<groupId>junittestttt1111</groupId>
 			<artifactId>junit</artifactId>
 			<version>${junit.version}</version>
 			<scope>test</scope>
